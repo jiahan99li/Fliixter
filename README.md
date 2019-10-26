@@ -37,9 +37,6 @@ I was having trouble with making the size larger on the collectionView for the s
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-http://g.recordit.co/QXbgbJryq8.gif
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/QXbgbJryq8.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
