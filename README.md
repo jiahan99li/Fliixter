@@ -34,7 +34,7 @@ I was having trouble with making the size larger on the collectionView for the s
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
 <img src="http://g.recordit.co/QXbgbJryq8.gif" width=250><br>
